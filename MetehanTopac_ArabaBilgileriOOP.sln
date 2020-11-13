@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetehanTopac_ArabaBilgileriOOP", "MetehanTopac_ArabaBilgileriOOP\MetehanTopac_ArabaBilgileriOOP.csproj", "{734DA111-F601-450D-A169-1428A82DBD24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{734DA111-F601-450D-A169-1428A82DBD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734DA111-F601-450D-A169-1428A82DBD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734DA111-F601-450D-A169-1428A82DBD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734DA111-F601-450D-A169-1428A82DBD24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ABCA748-DE84-486C-A3B2-E2A26DDB411E}
+	EndGlobalSection
+EndGlobal
